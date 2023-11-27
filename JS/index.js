@@ -1,6 +1,4 @@
-// Area of triangle
-
-// formula = A = 1/2 × b × h.
+// Converting minutes to seconds
 
 // declaring variables
 let display = document.querySelector('[data-display]')
