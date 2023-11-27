@@ -11,5 +11,3 @@ function time(){
     let calc = eval (`${input} * 60`)
     display.value = calc.toFixed(2)
 }
-// makes the input display read only
-document.querySelector('[data-display]').readOnly = true
